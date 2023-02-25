@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Delores の KnowledgeBox</title>
-    <link>https://delores0217.github.io/academy/</link>
-      <atom:link href="https://delores0217.github.io/academy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://delores0217.github.io/academic/</link>
+      <atom:link href="https://delores0217.github.io/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Delores の KnowledgeBox</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://delores0217.github.io/academy/media/covers/little-fox.png</url>
+      <url>https://delores0217.github.io/academic/media/covers/little-fox.png</url>
       <title>Delores の KnowledgeBox</title>
-      <link>https://delores0217.github.io/academy/</link>
+      <link>https://delores0217.github.io/academic/</link>
     </image>
     
     <item>
       <title>Introduction &amp; Concept</title>
-      <link>https://delores0217.github.io/academy/active-inference/c0-intro/</link>
+      <link>https://delores0217.github.io/academic/active-inference/c0-intro/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0100</pubDate>
-      <guid>https://delores0217.github.io/academy/active-inference/c0-intro/</guid>
+      <guid>https://delores0217.github.io/academic/active-inference/c0-intro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The low road to active inference</title>
-      <link>https://delores0217.github.io/academy/active-inference/c1-the-low-road/</link>
+      <link>https://delores0217.github.io/academic/active-inference/c1-the-low-road/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://delores0217.github.io/academy/active-inference/c1-the-low-road/</guid>
+      <guid>https://delores0217.github.io/academic/active-inference/c1-the-low-road/</guid>
       <description>&lt;p&gt;开始你的写作&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The high road to active inference</title>
-      <link>https://delores0217.github.io/academy/active-inference/c2-the-high-road/</link>
+      <link>https://delores0217.github.io/academic/active-inference/c2-the-high-road/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://delores0217.github.io/academy/active-inference/c2-the-high-road/</guid>
+      <guid>https://delores0217.github.io/academic/active-inference/c2-the-high-road/</guid>
       <description></description>
     </item>
     

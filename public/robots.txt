@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://delores0217.github.io/academy/sitemap.xml
+Sitemap: https://delores0217.github.io/academic/sitemap.xml

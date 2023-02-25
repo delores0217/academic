@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Delores の KnowledgeBox</title>
-    <link>https://delores0217.github.io/academy/tags/</link>
-      <atom:link href="https://delores0217.github.io/academy/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://delores0217.github.io/academic/tags/</link>
+      <atom:link href="https://delores0217.github.io/academic/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://delores0217.github.io/academy/media/icon_hu424ccdea6f577ce5bf5f1cf72846790e_3915_512x512_fill_lanczos_center_3.png</url>
+      <url>https://delores0217.github.io/academic/media/icon_hu424ccdea6f577ce5bf5f1cf72846790e_3915_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://delores0217.github.io/academy/tags/</link>
+      <link>https://delores0217.github.io/academic/tags/</link>
     </image>
     
   </channel>
